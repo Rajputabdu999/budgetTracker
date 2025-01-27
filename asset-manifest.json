@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/budgetTracker/static/css/main.a4f82910.css",
-    "main.js": "/budgetTracker/static/js/main.06e7679e.js",
+    "main.js": "/budgetTracker/static/js/main.9ac7fd75.js",
     "static/js/488.e75445ad.chunk.js": "/budgetTracker/static/js/488.e75445ad.chunk.js",
     "index.html": "/budgetTracker/index.html",
     "main.a4f82910.css.map": "/budgetTracker/static/css/main.a4f82910.css.map",
-    "main.06e7679e.js.map": "/budgetTracker/static/js/main.06e7679e.js.map",
+    "main.9ac7fd75.js.map": "/budgetTracker/static/js/main.9ac7fd75.js.map",
     "488.e75445ad.chunk.js.map": "/budgetTracker/static/js/488.e75445ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4f82910.css",
-    "static/js/main.06e7679e.js"
+    "static/js/main.9ac7fd75.js"
   ]
 }
